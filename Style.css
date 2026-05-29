@@ -43,3 +43,15 @@ button:last-of-type {
   background: #1e293b;
   border-radius: 12px;
 }
+.pricing {
+  margin-top: 60px;
+}
+
+.plan {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 12px;
+  width: 200px;
+}
