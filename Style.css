@@ -74,3 +74,15 @@ button:last-of-type {
 .nav-links a:hover {
   color: #4f46e5;
 }
+.chat-demo {
+  margin-top: 60px;
+}
+
+.chat-box {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 12px;
+  text-align: left;
+}
