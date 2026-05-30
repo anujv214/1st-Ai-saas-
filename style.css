@@ -89,3 +89,8 @@ button:last-of-type {
 button:hover {
   opacity: 0.8;
 }
+footer {
+  margin-top: 80px;
+  padding: 20px;
+  color: #94a3b8;
+}
