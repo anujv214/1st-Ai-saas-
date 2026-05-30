@@ -86,3 +86,6 @@ button:last-of-type {
   border-radius: 12px;
   text-align: left;
 }
+button:hover {
+  opacity: 0.8;
+}
